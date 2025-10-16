@@ -1,6 +1,5 @@
-# shopping-trends-sql-analysis
-SQL-based retail sales analysis project identifying shopping trends, customer behavior, and product performance using aggregate, window, and subqueries on a 3000+ transaction dataset.
 # Shopping Trends Data Analysis using SQL
+SQL-based retail sales analysis project identifying shopping trends, customer behavior, and product performance using aggregate, window, and subqueries on a 3000+ transaction dataset.
 
 **Company Focus:** Retail Business Data Insights  
 **Project Type:** Data Analysis using SQL  
@@ -26,9 +25,9 @@ The analysis focused on:
 - Providing business recommendations  
 
 **Impact:**  
-✅ Improved marketing targeting by 30%  
-✅ Identified top 3 profitable items  
-✅ Customer segmentation enabled better personalized offers  
+1. Improved marketing targeting by 30%  
+2. Identified top 3 profitable items  
+3. Customer segmentation enabled better personalized offers  
 
 ---
 
