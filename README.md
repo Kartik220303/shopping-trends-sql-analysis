@@ -4,7 +4,6 @@ SQL-based retail sales analysis project identifying shopping trends, customer be
 **Company Focus:** Retail Business Data Insights  
 **Project Type:** Data Analysis using SQL  
 **Tools Used:** MySQL, Excel  
-**Author:** Kartik K N 
 
 ---
 
@@ -98,3 +97,5 @@ If given more time, I would:
 - Integrate machine learning for **sales prediction**  
 
 ---
+
+**Author:** Kartik K N 
