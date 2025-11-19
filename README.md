@@ -98,4 +98,5 @@ If given more time, I would:
 
 ---
 
-**Author:** Kartik K N 
+##  Author
+**Kartik K N**  
