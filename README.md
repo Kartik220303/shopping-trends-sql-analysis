@@ -5,6 +5,7 @@ SQL-based retail sales analysis project identifying shopping trends, customer be
 **Project Type:** Data Analysis using SQL  
 **Author:** Kartik K N 
 **Tools Used:** MySQL, Excel  
+**Author:** Kartik K N 
 
 ---
 
